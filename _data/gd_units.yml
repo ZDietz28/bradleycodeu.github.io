@@ -11,6 +11,8 @@ Sign up for:
 
 - 'Sign up with Google' [id.unity.com](https://id.unity.com/en/conversations/e2c68135-77f6-42b4-bc5c-7fcb4004cd27012f)
 
+- 'Sign up with Google' [sololearn.com](https://www.sololearn.com/) and download the SoloLearn app on your iPad
+
 - [khanacademy.org](https://khanacademy.org)
 
 
@@ -25,9 +27,10 @@ Our “Textbooks”:
 
 - [Intro to App Development with Swift](https://books.apple.com/us/book/intro-to-app-development-with-swift/id1118575552)
 
+- [How to Help Someone Use a Computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 
 
--=-=-=-
+-------
 
 
 
@@ -46,13 +49,17 @@ Our “Textbooks”:
 *-Pac-man*
 
 
+
+-------
+
+
 "
 - title: menu1
   content: "[1st Quarter](#1st-quarter)
 
-1. **[Objects](#objects)**
+1. **[Objects](#objects)** - *4 wks*
 
-1. **[Inheritance](#inheritance)**
+1. **[Inheritance](#inheritance)** - *5 wks*
 
 
 "
@@ -61,7 +68,7 @@ Our “Textbooks”:
   content: "*4 weeks* Vocab: object, class, constructor, getter, setter, method, mutator, accessor, instance, instanciate, argument, parameter, finite state machine, game state, edge case, encapsulation, specialization, polymorphism, new, this, instance variable
 
 
-Resources:
+
 
   - [p5js video folder](https://drive.google.com/open?id=1Vcw2irGn_h8FYIDzU94ShGSLsUdGyCLX)
 
@@ -79,17 +86,20 @@ Resources:
 
 Projects:
 
+
+  1. Class Codes
+
   1. [KhanAcademy Drawing With Code](/gd/objects/khanacademydrawingwithcode/) - 10pts
 
   1. [KhanAcademy Games & Visualizations](/gd/objects/khanacademygames/) - 10pts
 
   1. [Bubble Game v1](/gd/objects/bubblegamev1/) - 50pts
 
-  1. [SoloLearn JS 1](/gd/objects/sololearnjs1/) - 20pts
+  1. [SoloLrn JS 1](/gd/objects/sololearnjs1/) - 13pts
 
   1. [Bubble Game v2](/gd/objects/bubblegamev2/) - 50pts
 
-  1. [SoloLearn Js 2](/gd/objects/sololearnjs2/) - 23pts
+  1. [SoloLrn Js 2](/gd/objects/sololearnjs2/) - 15pts
 
   1. Optional Bonus Points [Markov Chain Generator](/gd/objects/markovchaingenerator/) - 50pts
 
@@ -100,7 +110,7 @@ Projects:
   content: "*5 weeks*, Vocab: abstraction, parent class, child class, inheritance, containment, is-a, has-a, UML
 
 
-Resources:
+
 
   - [Coding Train 16.17: Inheritance in JavaScript](https://drive.google.com/file/d/1f31Hv4RS_QHj-aPZUUjJyY07w8wgRcUg/view?usp=sharing)
 
@@ -114,11 +124,11 @@ Projects:
 
   1. [UDLR v1](/gd/inheritance/udlrv1/) - 50pts
 
-  1. [SoloLearn JS 3](/gd/inheritance/sololearnjs3/) - 17pts
+  1. [SoloLrn JS 3](/gd/inheritance/sololearnjs3/) - 12pts
 
   1. [UDLR v2](/gd/inheritance/udlr/) - 50pts
 
-  1. [SoloLearn JS 4](/gd/inheritance/sololearnjs4/) - 30pts
+  1. [SoloLrn JS 4](/gd/inheritance/sololearnjs4/) - 15pts
 
 "
 
@@ -140,22 +150,22 @@ Projects:
 
 *-Hideo Kojima*
 
+
+-------
+
+
   "
 - title: menu2
   content: "[2nd Quarter](#2nd-quarter)
 
+1. **[Platforms](#platforms)** - *3 wks*
 
-1. **[Platforms](#platforms)**
-
-1. **[CSharp](#csharp)**
-
-1. **[Swift](#swift)**
-
+1. **[CSharp](#csharp)** - *4 wks*
 
 "
 - title: platforms
   heading: "# Platforms"
-  content: "*2 weeks
+  content: "*3 weeks*, vocab: GitHub, commit, push, pull, pull request, clone, fork
 
 
   1. [Platformer v1](/gd/platforms/platformerv1/) - 50pts
@@ -167,41 +177,29 @@ Projects:
 
 - title: csharp
   heading: "# CSharp"
-  content: "*3 weeks*
+  content: "*4 weeks*,
 
-1. [SoloLearn CSharp](/gd/csharp/sololearncsharp/)
 
-1. [Roll A Ball v1](/gd/csharp/rollaballv1/)
 
-1. [Roll A Ball v2](/gd/csharp/rollaballv2/)
 
-1. [Space Shooter v1](/gd/csharp/spaceshooterv1/)
+  1. [Roll A Ball tutorials](https://drive.google.com/open?id=1od6cs8Mp4tIrEoH1xm6telgiGZkbpShq)
 
-"
+  1. [Space Shooter tutorials](https://drive.google.com/open?id=1yYnAjzR8CyDajmKLqHUM8pPBGv-HVkbe)
 
-- title: swift
-  heading: "# Swift"
-  content: "*6 weeks*
 
-1. [SoloLearn Swift](/gd/swift/sololearnswift/)
+Projects:
 
-1. [All About Me iOS app](/gd/swift/allaboutmeiosapp/)
+1. [SoloLrn CSharp](/gd/csharp/sololearncsharp/) - 11pts
 
-1. [Ch 3 Intro to App Dev](/gd/swift/ch3introtoappdev/)
+1. [Roll A Ball v1](/gd/csharp/rollaballv1/) - 20pts
 
-1. [Ch 4 Intro to App Dev](/gd/swift/ch4introtoappdev/)
+1. [Roll A Ball v2](/gd/csharp/rollaballv2/) - 20pts
 
-1. [Ch 5 Intro to App Dev](/gd/swift/ch5introtoappdev/)
-
-1. [Ch 6 Intro to App Dev](/gd/swift/ch6introtoappdev/)
-
-1. [Ch 7 Intro to App Dev](/gd/swift/ch7introtoappdev/)
-
-1. [Ch 8 Intro to App Dev](/gd/swift/ch8introtoappdev/)
-
-1. [Ch 9 Intro to App Dev](/gd/swift/ch9introtoappdev/)
+1. [Space Shooter v1](/gd/csharp/spaceshooterv1/) - 30pts
 
 "
+
+
 - title: 3rdquarter
   heading: "# 3rd Quarter"
   content: "
@@ -222,32 +220,59 @@ Projects:
 
  *-Hidetaka Miyazaki*
 
+
+-------
+
+
     "
 - title: menu3
   content: "[3rd Quarter](#3rd-quarter)
 
-1. **[Multiplayer](#multiplayer)**
+1. **[Swift](#swift)** - *3 wks*
 
-1. **[Unity3d](#unity3d)**
+1. **[Unity3d](#unity3d)** - *3 wks*
 
-
-"
-- title: multiplayer
-  heading: "# Multiplayer"
-  content: "*4 weeks*
-
-1. [Team Rollaball](/gd/multiplayer/teamrollaball/)
-
-1. [P5 Multiplayer v1](/gd/multiplayer/p5multiplayerv1/)
-
-1. [P5 Multiplayer v2](/gd/multiplayer/p5multiplayerv2/)
+1. **[Swift2](#swift2)** - *3 wks*
 
 
 "
+- title: swift
+  heading: "# Swift"
+  content: "*3 weeks*
+
+
+1. [All About Me iOS App](/gd/swift/allaboutmeiosapp/)
+
+1. [SoloLrn Swift Basics](/gd/swift/sololearnswift/)
+
+1. [Chapters 1 To 6](/gd/swift/chapters1to6/)
+
+1. [Chapters 7 To 12](/gd/swift/chapters7to12/)
+
+1. [SoloLrn Swift Control Flow](/gd/swift/SoloLrnSwiftControlFlow/)
+
+1. [Chapter 13 QuestionBot](/gd/swift/chapter13QuestionBot/)
+
+
+
+
+"
+
 
 - title: unity3d
   heading: "# Unity3d"
-  content: "*5 weeks*
+  content: "*3 weeks*
+
+
+
+
+  1. [Space Shooter tutorials](https://drive.google.com/open?id=1yYnAjzR8CyDajmKLqHUM8pPBGv-HVkbe)
+
+  1. [Terrain tutorials](https://drive.google.com/open?id=1lsFiEbqzo0u6EuoXLDo_E9q0xRFRL0j5)
+
+
+Projects:
+
 
 1. [Space Shooter v2](/gd/unity3d/spaceshooterv2/)
 
@@ -258,6 +283,41 @@ Projects:
 1. [WebGL Export](/gd/unity3d/webglexport/)
 
 "
+
+- title: swift2
+  heading: "# Swift2"
+  content: "*3 wks*
+
+  1. [ShouldBot App](/gd/swift2/shouldbotApp/)
+
+  1. [SoloLrn Swift Functions Closures](/gd/swift2/SoloLrnSwiftFunctionsClosures/)
+
+  1. [Flashlight App](/gd/swift2/flashlightApp/)
+
+  1. [Todo List App v1](/gd/swift2/todolistv1/)
+
+  1. [SoloLrn Swift Object Oriented Prog](/gd/swift2/SoloLrnSwiftObjectOrientedProg/)
+
+  1. [Todo List App v2](/gd/swift2/todolistv2/)
+
+  1. [Ch 14 Intro to App Dev Arrays and Loops](/gd/swift2/ch14introtoappdev/)
+
+  1. [Ch 15 Intro to App Dev Defining Structures](/gd/swift2/ch15introtoappdev/)
+
+  1. [Ch 16 Intro to App Dev QuestionBot2](/gd/swift2/ch16introtoappdev/)
+
+  1. [Actions and Outlets](/gd/swift2/ch16introtoappdev/)
+
+  1. [Ch 18 Intro to App Dev Adaptive User Interfaces](/gd/swift2/ch18introtoappdev/)
+
+  1. [Ch 19 Intro to App Dev Enumerations and Switch](/gd/swift2/ch19introtoappdev/)
+
+  1. [Final Design](/gd/swift2/ch20introtoappdev/)
+
+  1. [App Design](/gd/swift2/ch21introtoappdev/)
+
+
+  "
 
 - title: 4thquarter
   heading: "# 4th Quarter"
@@ -279,14 +339,20 @@ Projects:
 *–Roger Ebert*
 
 
+-------
+
+
+
     "
 - title: menu4
   content: "[4th Quarter](#4th-quarter)
 
 
-1. **[Unity2d](#unity2d)**
+1. **[Unity2d](#unity2d)** - *4 wks*
 
-1. **[iOS Platformer](#ios-platformer)**
+1. **[Multiplayer](#multiplayer)** - *4 wks*
+
+1. **[iOS Platformer](#ios-platformer)** - *3 wks*
 
 "
 - title: unity2d
@@ -303,6 +369,20 @@ Projects:
 
 
   "
+
+- title: multiplayer
+  heading: "# Multiplayer"
+  content: "*4 weeks*
+
+1. [Team Rollaball](/gd/multiplayer/teamrollaball/)
+
+1. [P5 Multiplayer v1](/gd/multiplayer/p5multiplayerv1/)
+
+1. [P5 Multiplayer v2](/gd/multiplayer/p5multiplayerv2/)
+
+
+"
+
 - title: iosplatformer
   heading: "# iOS Platformer"
   content: "*3 weeks*
