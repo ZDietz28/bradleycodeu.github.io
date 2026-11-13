@@ -1,0 +1,74 @@
+[
+  {
+    "answer": "n-gram",
+    "question": "a sequence of a specific number of adjacent elements"
+  },
+  {
+    "answer": "bigram",
+    "question": "a sequence of two consecutive elements"
+  },
+  {
+    "answer": "trigram",
+    "question": "a sequence of three consecutive elements"
+  },
+  {
+    "answer": "finite state machine",
+    "question": "a hardware or software device that has multiple modes and can be in only one mode at a time, such as a traffic light with distinct color states"
+  },
+  {
+    "answer": "markov chain",
+    "question": "a mathematical system that transitions from one state to another based on probabilities"
+  },
+  {
+    "answer": "law of large numbers",
+    "question": "as the sample size increases, the average result should get closer to the ideal result"
+  },
+  {
+    "answer": "monte carlo simulation",
+    "question": "a computational approach that applies the law of large numbers to predict and understand the behavior of systems involving uncertainty"
+  },
+  {
+    "answer": "mechanical turk",
+    "question": "a fake, chess-playing robot"
+  },
+  {
+    "answer": "luddite",
+    "question": "someone who is opposed to new technologies or technological change"
+  },
+  {
+    "answer": "supervised learning",
+    "question": "a type of machine learning where an algorithm learns from examples that include labeled input data and correctly labeled answers"
+  },
+  {
+    "answer": "unsupervised learning",
+    "question": "a type of machine learning where an algorithm studies data without labels to find hidden patterns, unknown groups, or unusual anomalies"
+  },
+  {
+    "answer": "self-supervised learning",
+    "question": "a method where an algorithm creates its own labels from unlabeled data by generating variations so it can learn to predict missing parts when given incomplete data"
+  },
+  {
+    "answer": "pre-trained model",
+    "question": "a machine learning model that has already been trained on a large dataset to perform a specific task"
+  },
+  {
+    "answer": "self-learning model",
+    "question": "a machine learning model that keeps learning and improving on its own as it gets more data or experience"
+  },
+  {
+    "answer": "Jacob Bernoulli",
+    "question": "wrote the book 'Ars Conjectandi' that proved the weak law of large numbers"
+  },
+  {
+    "answer": "Andrey Markov",
+    "question": "applied Bernoulli's law of large numbers to sequences of vowels and consonants in text to show that it applies to natural systems and dependent variables"
+  },
+  {
+    "answer": "Isaac Asimov",
+    "question": "a science fiction writer who created the Three Laws of Robotics"
+  },
+  {
+    "answer": "Claude Shannon",
+    "question": "published 'The Mathematical Theory of Communication', which proposed the first n-gram language models based on Markov’s work"
+  }
+]

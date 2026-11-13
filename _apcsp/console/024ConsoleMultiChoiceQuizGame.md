@@ -7,12 +7,12 @@ In this project you will use while loop, not, input, print, and a few other thin
 
 Let's discuss loops.
 ```
-Pre-conditional loops include while loop, for loop, and for each loop. The most common post-conditional loop is the do...while loop. Let's look at some pseudocode for using a while loop (a pre-conditional loop) for a number guessing game:
+Pre-conditional loops include while loop, for loop, and for each loop. The most common post-conditional loop is the "do while" loop. Let's look at some pseudocode for using a while loop (a pre-conditional loop) for a number guessing game:
 1. Declare variables for the number to guess and the user's guess
 2. Generate a random number between 1 and 10
 3. Print message asking user to enter their guess
-4. Scan in guess
-5. Start while loop that will continue as long as the guess is wrong
+4. Get user input guess
+5. Start while loop that will continue as long as the guess is wrong # Condition at top of loop
    - Print message saying guess is wrong
    - Get another guess from the user
 6. Print message saying the guess is right
@@ -20,11 +20,11 @@ Pre-conditional loops include while loop, for loop, and for each loop. The most 
 Notice that in the while loop version of the program, it is necessary to read in the user's first guess BEFORE the loop so there would be a value for comparison in the loop condition. The body of the while loop will NOT happen if this condition is false.
 ```
 
-For THIS project you will use a **pre-conditional loop**. In an upcoming project you will use a *post-conditional loop*.
+For THIS project you will use a *pre-conditional loop*. In an upcoming project you will use a *post-conditional loop*.
 
 ## Project Details:
 
-Create a function called askQuestion. It requires two parameters: questionText and questionAnswer. It does not return a value.
+Create a function called askQuestion. It requires two arguments: questionText and questionAnswer. It does not return a value.
 
 Introduce the game by explaining, "This is a Multiple Choice Quiz Game with 3 Questions. You will answer each question by typing the correct letter: a, b, or c."
 
@@ -52,8 +52,7 @@ Is this the last question? a = yes b = no c = Roblox: **a**
 Correct!
 >>>
 ```
--=-=-=-=-=-=-=-=-=-
 
-GOLD MEDAL CHALLENGE: Your entire project uses only 7 lines of code.
+-------
 
-![goldmedal](/apcsp/console/threeQuestions.jpg)
+GOLD MEDAL CHALLENGE: Your entire project uses less than 12 lines of code.

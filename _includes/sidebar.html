@@ -2,16 +2,22 @@
   <div class="card">
     <div class="card-body">
       <h5 class="text-capitalize"><a href="/{{page.collection}}/#{{page.category}}">{{page.category}} Unit</a></h5>
-      <small class="small">
+      <small class="smaller">
         {% assign unit = site.data.apcsp_units[page.collection] | where:"title",page.category %}
         {% unless unit[0].content %}
           {% assign unit = site.data.apcsa_units[page.collection] | where:"title",page.category %}
         {% endunless %}
         {% unless unit[0].content %}
-          {% assign unit = site.data.gd_units[page.collection] | where:"title",page.category %}
+          {% assign unit = site.data.gdarchive_units[page.collection] | where:"title",page.category %}
         {% endunless %}
         {% unless unit[0].content %}
-          {% assign unit = site.data.wd_units[page.collection] | where:"title",page.category %}
+          {% assign unit = site.data.wdarchive_units[page.collection] | where:"title",page.category %}
+        {% endunless %}
+        {% unless unit[0].content %}
+          {% assign unit = site.data.gdad_units[page.collection] | where:"title",page.category %}
+        {% endunless %}
+        {% unless unit[0].content %}
+          {% assign unit = site.data.aicc_units[page.collection] | where:"title",page.category %}
         {% endunless %}
         {{ unit[0].content | markdownify }}
       </small>

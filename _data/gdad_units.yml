@@ -1,0 +1,705 @@
+gdad:
+
+- title: 1stquarter
+  heading: "# 1st Quarter"
+  content: "*Whenever possible, select 'Sign up with Google' and always use your hilliardschools.org account.* &nbsp; &nbsp; <a href='https://github.com/BradleyCodeU/bradleycodeu.github.io/blob/master/_data/gdad_units.yml'>.</a>
+
+
+### Sign up for:
+
+- 'Sign up with Google' [sololearn.com](https://www.sololearn.com/)
+
+- [Runestone Academy](https://runestone.academy/runestone/default/user/register) AND use the *class code* posted on Canvas
+
+- 'Sign up with Google' [repl.it](https://repl.it) AND use the *class code* posted on Canvas
+
+- 'Sign up with Google' [glitch.com](https://glitch.com)
+
+- 'Sign up with Google' [khanacademy.org](https://khanacademy.org) AND use the *class code* posted on Canvas
+
+
+
+#### Our “Textbooks”:
+
+- [Fundamentals of Web Programming by Brad Miller](https://runestone.academy/runestone/books/published/webfundamentals/index.html)
+
+- [W3Schools](https://www.w3schools.com/)
+
+- [p5js](https://p5js.org/)
+
+- [How to Help Someone Use a Computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+
+
+-------
+
+
+“WorldWideWeb: Proposal for a HyperText Project”
+
+
+*—Tim Berners-Lee*
+
+
+“On the Internet, nobody knows you're a dog”
+
+
+*—Peter Steiner*
+
+
+-------
+
+
+"
+- title: menu1
+  content: "[1st Quarter](#1st-quarter)
+
+
+
+
+1. **[HTML](#html)** - *4 wks*
+
+1. **[CSS](#css)** - *3 wks*
+
+
+
+"
+
+- title: html
+  heading: "# HTML"
+  content: "*4 weeks*,
+
+
+1. Class Codes for MakeCode, SoloLearn, KhanAcademy
+
+1. Business Logo
+
+1. [SoloLrn HTML](/gdad/html/sololearnhtml/)
+
+1. [MC Food Chain Game](/gdad/html/foodChainGame/)
+
+1. [Simpler is Better](/gdad/html/simplerisbetter/)
+
+1. [Poetry with Emphasis](/gdad/html/poetrywithemphasis/)
+
+1. [MC Beginner Skillmap](/gdad/html/beginnerSkillmap/)
+
+1. [Club Goals Lists](/gdad/html/clubgoalslists/)
+
+1. [SoloLrn HTML 2](/gdad/html/sololearnhtml2/)
+
+1. MC Monster Truck
+
+1. Group - [Multi-page Website 1](/gdad/html/multipagepizzasite1/)
+
+1. [Twine Game v1](/gdad/html/twinegamev1/)
+
+
+
+
+Additional:
+
+1. [Hello World](/gdad/html/helloworld/)
+
+
+
+
+
+#### Vocab:
+
+html, hypertext, tag, element, head, body, title, h1, p, br, bold, italics, img, attribute, alt, ol, ul, li
+
+
+#### Resources:
+
+- [KhanAcademy Intro to HTML](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-basics)
+
+- [What is Design?](https://drive.google.com/open?id=19UTgCtOIuQPbIhIo6B2ktjPeGUDolFCM)
+
+- [Simpler is Better](https://drive.google.com/open?id=1hpUxydU5K0Lv9N_UkXRrQDSfIBxV8RAp)
+
+- [KhanAcademy HTML text emphasis](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-text-emphasis)
+
+- [KhanAcademy HTML lists](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-lists)
+
+- [GDAD HTML Unit Vocab](https://docs.google.com/document/d/1lFET0X74bM1jqZnVSS5yAaAOs6ms1UiarH5JckI54BY/edit?usp=sharing)
+
+- [GDAD HTML vocab review game](https://bradleycodeu.github.io/gdad/html/review/)
+
+
+"
+
+- title: css
+  heading: "# CSS"
+  content: "*3 weeks*
+
+
+
+
+1. [SoloLrn CSS](/gdad/css/CssSoloLearn1/instructions/)
+
+1. [Colorful Tables](/gdad/css/CssColorfulTablesinstructions/)
+
+1. [MC Shark Attack](/gdad/css/MkcSharkAttack/instructions/)
+
+1. [Hexcode Pixels](/gdad/css/CssHexcodePixels/instructions/)
+
+1. [Chippos](/gdad/css/CssChippos/instructions/)
+
+1. [MC Maze Game](/gdad/css/MkcMazeGame/instructions/)
+
+1. Group - [Multi-page Pizza Site 2](/gdad/css/multipagepizzasite2/)
+
+
+
+
+Additional:
+
+1. Puzzle 1 Sokoban
+
+1. Puzzle 2 Zelda
+
+1. Puzzle 3 Frogger
+
+1. Puzzle 4 Pacman
+
+1. [KhanAcademy Drawing with Code](/gdad/css/khanacademydrawingwithcode/)
+
+1. [Food Drive](/gdad/css/fooddrive/)
+
+1. [Twine Game v2](/gdad/css/twinegamev2/)
+
+
+
+#### Vocab:
+
+css, inline css, internal css, external css, css rule, selector, css declaration, css property and value, rgb, hexcode, font stack, serif font, sans serif font, css box model, padding, border, margin, table, tr, th, td
+
+
+#### Resources:
+
+- [Images Pixels and RGB](https://drive.google.com/open?id=1WDeCPoWsnHy7-FUteaoZRspIw25sJWyb)
+
+- [GDAD CSS unit vocab](https://docs.google.com/document/d/1EnxzRSG4OwMD_QLqqwv2yH0XCKy65JzupGgukky7oYA/edit?usp=sharing)
+
+- [GDAD CSS vocab review game](https://bradleycodeu.github.io/gdad/css/review/)
+
+
+"
+
+
+- title: 2ndquarter
+  heading: "# 2nd Quarter"
+  content: "
+“Java is to JavaScript as ham is to hamster.”
+
+*-Jeremy Keith*
+
+
+“When something is such a creative medium as the web, the limits to it are our imagination.”
+
+*-Tim Berners-Lee*
+
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
+-------
+
+
+  "
+- title: menu2
+  content: "[2nd Quarter](#2nd-quarter)
+
+1. **[JS](#js)** - *4 wks*
+
+1. **[Forms](#forms)** - *2 wks*
+
+1. **[p5js](#p5js)** - *3 wks*
+
+1. **[Arrays](#arrays)** - *4 wks*
+
+"
+
+
+- title: js
+  heading: "# JS"
+  content: "*3 weeks*
+
+
+1. [SoloLrn JS Overview](/gdad/js/SoloLearnJS1/)
+
+1. [Change Text](/gdad/js/ChangeTextWithJS/)
+
+1. [MC JunglePlatformer](/gdad/js/JunglePlatformer/)
+
+1. [Three Prompts](/gdad/js/JSThreePrompts/)
+
+1. [Club Page v1](/gdad/js/JSClubPagev1/)
+
+1. [12 Buttons Game](/gdad/js/12ButtonsGame/)
+
+1. GitHub12Buttons
+
+1. [JS Clicker Game](/gdad/js/JSClickerGame/)
+
+1. [SoloLrn JS Basics](/gdad/js/SoloLearnJS2/)
+
+1. [MC Tower Defense Game](/gdad/js/TowerDefenseGame/)
+
+
+
+
+#### Vocab:
+
+JavaScript, id, script, variable, var, let, button, onclick, getElementById(), innerHTML, class, alert, prompt, function, function definition, function call, console, debugging, syntax, comment, operators, assignment operator, equality operator, string, camelCase, display, block, inline, conditional, transition, event listener, GitHub, fork, commit, pull request
+
+
+#### Resources:
+
+- [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
+- [GDAD JS unit vocab](https://docs.google.com/document/d/1dBCPF6YJd5m7eBXKO5_Vd0eN1Oemcqu3fd7Eoxai4WI/edit?usp=sharing)
+
+- [JS vocab review game](https://bradleycodeu.github.io/gdad/js/review/)
+
+"
+
+
+- title: forms
+  heading: "# Forms"
+  content: "*2 weeks*
+
+1. Pair - [Conditional Card Game](/gdad/forms/ConditionalCardGame/)
+
+1. [Join Club](/gdad/forms/JoinClub/)
+
+1. [Yes or No](/gdad/forms/YesOrNo/)
+
+1. [SoloLrn JS 2](/gdad/forms/SoloLearnJS2/)
+
+1. [Sound Sample Piano](/gdad/forms/SoundSamplePiano/)
+
+
+Additional:
+
+  1. [Form Game 1](/gdad/forms/JSFormGame/)
+
+  1. Pair-[Form Game 2](/gdad/forms/JSFormGame2/)
+
+
+
+#### Vocab:
+
+form, label, input, radio button, select, onchange, checkbox, div, border-radius, transition, function, Math.random(), event listener,
+
+- [GDAD Forms unit vocab](https://docs.google.com/document/d/16Pcd5zadHzTg4hH85ysNGb1Fl2utWQXOLMzB06-pd2c/edit?usp=sharing)
+
+- [Forms vocab review game](https://bradleycodeu.github.io/gdad/forms/review/)
+"
+
+- title: p5js
+  heading: "# p5js"
+  content: "*3 weeks*
+
+1. [KA Drawing 2](/gdad/p5js/KADrawing2/)
+
+1. [P5 Mouse Mover](/gdad/p5js/P5MouseMover/)
+
+1. [P5BouncingDVDLogo](/gdad/p5js/P5BouncingDVDLogo/)
+
+1. [KAArrays](/gdad/p5js/KAArrays/)
+
+1. [P5 Bubble Game v1](/gdad/p5js/P5BubbleGamev1/)
+
+
+Additional:
+
+1. [SoloLrn JS Functions](/gdad/p5js/SoloLearnJS3/)
+
+1. [P5 Bubble Game v2](/gdad/p5js/P5BubbleGamev2/)
+
+1. [P5 UDLR v1](/gdad/p5js/p5udlrv1/)
+
+1. [P5 UDLR v2](/gdad/p5js/p5udlrv2/)
+
+"
+
+- title: arrays
+  heading: "# Arrays"
+  content: "*4 weeks*
+
+
+
+
+1. [Random Name Generator](/gdad/arrays/ArraysRandNameGen/instructions/)
+
+1. Pair-[Boss Battle](/gdad/arrays/bossBattle/instructions/)
+
+1. [Array Search](/gdad/arrays/arraySearch/instructions/)
+
+1. [Guess One Letter](/gdad/arrays/guessOneLetter/instructions/)
+
+1. [P5 Snowflakes](/gdad/arrays/p5snowflakes/instructions/)
+
+1. [P5 Whiteboard](/gdad/arrays/p5whiteboard/instructions/)
+
+
+
+#### Resources:
+
+  - [JS Nested Conditionals Generator](https://bradleycodeu.github.io/studyGuides/JavascriptNestedConditionalsGenerator/)
+
+  - [JS Array Practice Generator](https://bradleycodeu.github.io/studyGuides/JavascriptArrayPracticeGenerator/)
+
+
+"
+
+
+- title: 3rdquarter
+  heading: "# 3rd Quarter"
+  content: "
+
+“The web's earliest architects and pioneers fought for their vision of freedom on the Internet at a time when it was still small forums for conversation and text-based gaming. They thought the web could be adequately governed by its users without their needing to empower anyone to police it.”
+
+*–Jenna Wortham*
+
+
+“...Spins a web, any size.
+Catches thieves- just like flies.
+Look out! Here comes the Spider-man”
+
+*-Spider-man*
+
+
+-------
+
+
+    "
+- title: menu3
+  content: "[3rd Quarter](#3rd-quarter)
+
+
+
+
+
+1. **[Objects](#objects)** - *3 wks*
+
+1. **[Unity1](#unity1)** - *4 wks*
+
+"
+
+- title: objects
+  heading: "# Objects"
+  content: "*3 weeks*
+
+
+
+
+
+1. [SoloLrn JS Functions](/gdad/p5js/SoloLearnJS3/)
+
+1. [FoobarGame](/gdad/objects/FoobarGame/)
+
+1. [WebGL Bouncy Sphere](/gdad/objects/WebGLBouncySphere/)
+
+1. [WebGL Bouncy Statue](/gdad/objects/WebGLBouncyStatue/)
+
+1. [SoloLrn Objects](/gdad/objects/SoloLrnObjects/)
+
+1. [WebGL Tree](/gdad/objects/WebGLTree/)
+
+1. [WebGL Tree Class](/gdad/objects/WebGLTreeClass/)
+
+1. [WebGL Animal](/gdad/objects/WebGLAnimal/)
+
+1. [WebGL Animal Class](/gdad/objects/WebGLAnimalClass/)
+
+
+
+Additional:
+
+  1. [JS Chatbot](/gdad/objects/JSChatbot/)
+
+  1. [P5 Bouncy Ball](/gdad/objects/P5BouncyBall/)
+
+
+
+#### Resources:
+
+- [Abstraction illustration](https://bradleycodeu.github.io/gdad/objects/abstraction2.png)
+
+- [Nested Conditionals practice generator](https://replit.com/@JustinRiley1/JS-Nested-Conditionals-Practice-Generator?v=1)
+
+- [GDAD OOP vocab](https://docs.google.com/document/d/1KRKlcFDkt1IZplejPZ7GWC-5nNVnWqSw3GyT-Z3PWrE/edit?usp=sharing)
+
+- [GDAD OOP Vocab Review](/gdad/objects/review/)
+
+  "
+
+- title: unity1
+  heading: "# Unity1"
+  content: "*4 wks*
+
+1. [Unity Chain Reactions](/gdad/unity1/UnityChainReactions/)
+
+1. [Unity Simple Maze](/gdad/unity1/UnitySimpleMaze/)
+
+1. [Unity Player Control](/gdad/unity1/UnityPlayerControl/)
+
+1. [Unity Plane Programming](/gdad/unity1/UnityPlaneProgramming/)
+
+1. [UnityUnit1Quiz](/gdad/unity1/UnityUnit1Quiz/)
+
+1. [SoloLrn C# Basics](/gdad/unity1/SoloLrnCsharpBasics/)
+
+
+#### Resources:
+
+- [https://screencast-o-matic.com/screen-recorder](https://screencast-o-matic.com/screen-recorder)
+
+- [Unity1 vocab list](https://docs.google.com/document/d/17bvUy1IcnPRXKYe2WTE87MveOJhiKy2ofkMyIkkUGyk/edit?usp=sharing)
+
+- [Unity1 vocab review game](https://bradleycodeu.github.io/gdad/unity1/review/)
+
+
+  "
+
+- title: 4thquarter
+  heading: "# 4th Quarter"
+  content: "
+“None of us got where we are solely by pulling ourselves up by our bootstraps. We got here because somebody - a parent, a teacher, an Ivy League crony or a few nuns - bent down and helped us pick up our boots.”
+
+*–Thurgood Marshall*
+
+
+-------
+
+
+    "
+- title: menu4
+  content: "[4th Quarter](#4th-quarter)
+
+  1. **[Unity2](#unity2)** - *3 wk*
+
+1. **[Agile](#agile)** - *1 wk*
+
+1. **[Swift](#swift)** - *4 wks*
+
+1. **[Bootstrap](#bootstrap)**
+
+1. **[Materialize](#materialize)**
+
+1. **[NodeJS](#nodejs)**
+
+
+
+"
+- title: unity2
+  heading: "# Unity2"
+  content: "*3 wks*
+
+1. [Unity Basic Gameplay](/gdad/agile/UnityBasicGameplay/)
+
+1. [Unity Play Fetch](/gdad/agile/UnityPlayFetch/)
+
+1. [Unity Unit2 Quiz](/gdad/agile/UnityUnit2Quiz/)
+
+1. [RollABallV1](/gdad/agile/UnityRollABallV1/)
+
+1. [RollABallV2Multiplayer](/gdad/agile/UnityRollABallV2Multiplayer/)
+
+1. [RollABallV3YouWin](/gdad/agile/UnityRollABallV3YouWin/)
+
+
+
+Additional:
+
+  1. [SpaceShooterV1](/gdad/agile/UnitySpaceShooterV1/)
+
+
+#### Resources:
+
+  - [Post Processing in Unity](/gdad\agile\PostProcessingInUnity/)
+
+
+  "
+- title: agile
+  heading: "# Agile"
+  content: "*1 wk*
+
+
+  
+  
+  1. ScrumInSchool Quiz
+  
+ 
+  
+  1. ScrumInUnder5Minutes Quiz
+  
+
+  
+  1. WaterfallDevelopment Quiz
+  
+ 
+  
+  1. TheAgileManifesto Quiz
+  
+
+
+
+#### Resources:
+
+  - [Agile vocab list](https://docs.google.com/document/d/1W2XWOGrPkRcey1bz16oligZgUBBjUUI4V6-e056omaw/edit?usp=sharing)
+
+  - [Agile vocab review game](https://bradleycodeu.github.io/gdad/agile/review/)
+
+
+
+
+
+
+"
+
+- title: swift
+  heading: "# Swift"
+  content: "*4 wks*
+
+
+1. [AllAboutMeApp](/gdad/swift/allaboutmeiosapp/)
+
+1. [StackViewApp](/gdad/swift/SwiftStackViewApp/)
+
+1. [UsingButtons](/gdad/swift/SwiftUsingButtons/)
+
+1. [Ch1to6Playground](/gdad/swift/chapters1to6/)
+
+1. [Flashlight](/gdad/swift/flashlightApp/)
+
+1. [SoloLrnSwiftBasics](/gdad/swift/sololearnswift/)
+
+1. [CardGame](/gdad/swift/SwiftCardGame/)
+
+1. [SoloLrnSwiftControlFlow](/gdad/swift/SoloLrnSwiftControlFlow/)
+
+1. [Ch7to12Playground](/gdad/swift/chapters7to12/)
+
+1. [Ch13QuestionBot](/gdad/swift/chapter13QuestionBot/)
+
+1. [ShouldBot](/gdad/swift/shouldbotApp/)
+
+
+
+"
+
+- title: bootstrap
+  heading: "# Bootstrap"
+  content: "*3 weeks*
+
+
+
+
+
+
+
+
+1. [Bootstrap Responsive Columns](/gdad/bootstrap/bootstrapresponsivecolumns/)
+
+1. [Bootstrap Club Page](/gdad/bootstrap/bootstrapclubpage/)
+
+1. [Bootstrap Club Collapse](/gdad/bootstrap/bootstrapclubcollapse/)
+
+1. [Bootstrap Club Carousel](/gdad/bootstrap/bootstrapclubcarousel/)
+
+
+#### Resources:
+
+- [Get Started](/gdad/bootstrap/bootstrap-4-get-started/)
+
+- [Containers](/gdad/bootstrap/bootstrap-4-containers/)
+
+- [Colors](/gdad/bootstrap/bootstrap-4-colors/)
+
+- [Grid](/gdad/bootstrap/bootstrap-4-grid/)
+
+- [Jumbotron](/gdad/bootstrap/bootstrap-4-jumbotron/)
+
+- [Buttons](/gdad/bootstrap/bootstrap-4-buttons/)
+
+- [Forms & Inputs](/gdad/bootstrap/bootstrap-4-forms-and-inputs/)
+
+- [Collapse](/gdad/bootstrap/bootstrap-4-collapse/)
+
+- [Display & Text Classes](/gdad/bootstrap/bootstrap-4-display-and-text-classes/)
+
+- [Carousel](/gdad/bootstrap/bootstrap-4-carousel/)
+
+- [Modal](/gdad/bootstrap/bootstrap-4-modal/)
+
+- [Google Fonts](/gdad/bootstrap/google-fonts/)
+
+- [Google Material Icons](/gdad/bootstrap/google-material-icons/)
+
+
+  "
+
+
+- title: materialize
+  heading: "# Materialize"
+  content: "*3 weeks*
+
+
+
+
+1. [Materialize Responsive Columns](/gdad/materialize/materializeresponsivecolumns/)
+
+1. [Materialize Pizza Homepage](/gdad/materialize/pizzahomepage/)
+
+1. [Materialize Pizza Order Form](/gdad/materialize/pizzaorderform/)
+
+1. [Materialize Pizza Birthday Club](/gdad/materialize/pizzabirthdayclub/)
+
+
+#### Resources:
+
+
+- [Get Started](/gdad/materialize/materialize-get-started/)
+
+- [Container & Grid](/gdad/materialize/materialize-container-and-grid/)
+
+- [Colors](/gdad/materialize/materialize-colors/)
+
+- [Cards](/gdad/materialize/materialize-cards/)
+
+- [Navbar](/gdad/materialize/materialize-navbar/)
+
+- [Buttons & Waves](/gdad/materialize/materialize-buttons-and-waves/)
+
+- [Text Inputs](/gdad/materialize/materialize-text-inputs/)
+
+- [Select Dropdown](/gdad/materialize/materialize-select-dropdown/)
+
+- [Radio Buttons & Checkboxes](/gdad/materialize/materialize-radio-buttons)
+
+- [Collapsibles](/gdad/materialize/materialize-collapsibles/)
+
+- [Pickers](/gdad/materialize/materialize-pickers/)
+
+- [Range Sliders](/gdad/materialize/materialize-range-sliders/)
+
+- [Switches](/gdad/materialize/materialize-switches/)
+
+- [Sidenav](/gdad/materialize/materialize-sidenav/)
+
+
+"
+
+
+
+- title: nodejs
+  heading: "# NodeJS"
+  content: "*3 weeks*
+
+1. [NodeJS Order Form v1]
+
+1. [NodeJS Order Form v2]
+
+
+
+"

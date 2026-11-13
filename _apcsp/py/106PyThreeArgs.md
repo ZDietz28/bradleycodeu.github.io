@@ -3,28 +3,97 @@ layout: project
 category: py
 title: Three Args
 ---
+
 Pick 2:
-- [giveSpeedingTicket](#givespeedingticket)
+- [triangleType](#triangleType)
+- [countTeens](#countTeens)
+- [convertTime](#convertTime)
+- [isValidDate](#isValidDate)
+- [giveTicket](#giveticket)
 - [netPay](#netpay)
-- [employeeSalesBonus](#employeesalesbonus)
-- [parrotTrouble](#parrottrouble)
+- [salesBonus](#salesbonus)
+- [parrotNoise](#parrotnoise)
 
+## triangleType
+Write a Python function triangleType(side1, side2, side3) that takes in three arguments: side1, side2, and side3 (the lengths of the sides of a triangle). The function should determine and return the type of the triangle based on its sides: If all three sides are equal, return "equilateral". If only two sides are equal, return "isosceles". If no sides are equal, return "scalene". If any of the sides are zero or less then return "error"
 
-## giveSpeedingTicket
-Create a function called giveSpeedingTicket that requires three arguments: currentSpeed, speedLimit, isSchoolZone.
+#### Input -> Output
+```
+triangleType(5, 5, 5) -> "equilateral"
+triangleType(5, 5, 6) -> "isosceles"
+triangleType(3, 4, 5) -> "scalene"
+triangleType(7, 8, -9) -> "error"
+```
+
+## countTeens
+Given 3 int values as arguments, return the count of them that are teen. We'll say that a number is "teen" if it is in the range 13..19 inclusive.
+
+#### Input -> Output
+```
+countTeens(13, 20, 10) -> 1
+countTeens(20, 19, 10) -> 1
+countTeens(15, 10, 13) -> 2
+countTeens(17, 18, 19) -> 3
+countTeens(12, 20, 11) -> 0
+```
+
+## convertTime
+Write a Python function convert_time(hours, minutes, return_unit) that takes in three arguments: hours, minutes, and return_unit.
+
+- hours (an integer representing the number of hours).
+- minutes (an integer representing the number of minutes).
+- return_unit (a string representing the unit of time to which the duration should be converted, either "hours", "minutes", or "seconds").
+
+First calculate the total number of minutes by multiplying the number of hours by 60 and adding the number of minutes. If return_unit is "hours", then divide total_minutes by 60 to convert it to hours. If return_unit is "seconds", then multiply total_minutes by 60 to convert it to seconds. If the return_unit is not "hours", "minutes", or "seconds" then always return 0.
+
+#### Input -> Output
+```
+convertTime(2, 30, "hours") -> 2.5
+convertTime(2, 30, "minutes") -> 150
+convertTime(2, 30, "seconds") -> 9000
+convertTime(1, 2, "banana") -> 0
+```
+## isValidDate
+Write a Python function isValidDate(month, day, is_leap_year) that takes in three arguments: month, day, and is_leap_year.
+
+- month (an integer representing the month of the year with January as 1).
+- day (an integer representing the day of the month).
+- is_leap_year (a boolean indicating whether the year is a leap year).
+
+The function should determine and return True if the given date is valid for the specified month and year (taking into account leap years if is_leap_year is True), otherwise return False. Remember: 30 days has September, April, June, and November, All the rest have 31, Save February at 28, But leap year coming once in four, February then has one day more.
+
+#### Input -> Output
+```
+isValidDate(12, 31, False) -> True
+isValidDate(4, 30, False) -> True
+
+April only has 30 days
+isValidDate(4, 31, False) -> False
+isValidDate(12, 32, False) -> False
+isValidDate(13, 31, False) -> False
+isValidDate(0, -1, False) -> False
+
+Feb 29th only exists if it's a leap year
+isValidDate(2, 29, True) -> True
+isValidDate(2, 29, False) -> False
+```
+## giveTicket
+Create a function called giveTicket that requires three arguments: currentSpeed, speedLimit, isSchoolZone.
 The function returns either True or False. It returns True if isSchoolZone is true and the currentSpeed is above the speedLimit.
 It also returns True if isSchoolZone is false and the currentSpeed is more than 10% above the speedLimit. Otherwise it returns False.
 
-### Input &rarr; Output
+#### Input -> Output
+```
+in school zone
+giveTicket(21, 20, True) -> True
+giveTicket(19, 20, True) -> False
 
-giveSpeedingTicket(21, 20, True) &rarr; True
+not in school zone
+giveTicket(999, 55, False) -> True
 
-giveSpeedingTicket(19, 20, True) &rarr; False
-
-giveSpeedingTicket(999, 55, False) &rarr; True
-
-giveSpeedingTicket(59, 55, False) <small><em>#above the speed limit but not 10% above</em></small> &rarr; False
-
+above the speed limit but not 10% above
+giveTicket(59, 55, False) -> False  
+```
 Starter code:
 ```python
 from tkinter import *
@@ -32,13 +101,13 @@ from tkinter import *
 # define your function here
 
 popup = Tk()
-output = giveSpeedingTicket(21, "20", True)
+output = giveTicket(21, "20", True)
 Label(popup, text=str(output)).pack()
-output = giveSpeedingTicket(19, 20, "True")
+output = giveTicket(19, 20, "True")
 Label(popup, text=str(output)).pack()
-output = giveSpeedingTicket(999, "55", False)
+output = giveTicket(999, "55", False)
 Label(popup, text=str(output)).pack()
-output = giveSpeedingTicket("59", 55, False)
+output = giveTicket("59", 55, False)
 Label(popup, text=str(output)).pack()
 mainloop()
 ```
@@ -47,14 +116,16 @@ mainloop()
 Create a function called netPay that requires three arguments: hourlyPay, totalHours, incomeTax.
 The function returns the employee's take-home pay (aka net pay). According to FLSA regulation, an employee "must receive overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay." If the totalHours is over 40, then calculate both the amount earned at regular pay (the first 40 hours) and the amount earned at time and one-half (overtime hours), then subtract the incomeTax (a percentage of their entire paycheck).
 
-### Input &rarr; Output
+#### Input -> Output
+```
+netPay(10, 10, 0.05) -> 95
 
-netPay(10, 10, 0.05) &rarr; 95
+($400 reg pay + $150 time-and-a-half pay) - 5%
+netPay(10, 50, 0.05)  -> 522.5
 
-netPay(10, 50, 0.05) <small><em>#($400 reg pay + $150 time-and-a-half pay) - 5%</em></small> &rarr; 522.5
-
-netPay(10, 60, 0.05) <small><em>#($400 reg pay + $300 time-and-a-half pay) - 5%</em></small> &rarr; 665
-
+($400 reg pay + $300 time-and-a-half pay) - 5%
+netPay(10, 60, 0.05)  -> 665
+```
 Starter code:
 ```python
 from tkinter import *
@@ -71,18 +142,20 @@ Label(popup, text=output).pack()
 mainloop()
 ```
 
-## employeeSalesBonus
-Create a function called employeeSalesBonus that requires three arguments: hourlyPay, totalHours, totalSales.
+## salesBonus
+Create a function called salesBonus that requires three arguments: hourlyPay, totalHours, totalSales.
 The function returns the employee's gross pay (aka pay before taxes). At this business, employees earn their hourlyPay x totalHours PLUS 10% of their totalSales. According to FLSA regulation, an employee "must receive overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay." If the the totalHours is over 40, then calculate both the amount earned at regular pay (the first 40 hours) and the amount earned at time and one-half (overtime hours), then add 10% of their totalSales.
 
-### Input &rarr; Output
+#### Input -> Output
+```
+salesBonus(10, 30, 500) -> 350
 
-employeeSalesBonus(10, 30, 500) &rarr; 350
+($400 reg pay + $150 time-and-a-half pay) + $50
+salesBonus(10, 50, 500) -> 600
 
-employeeSalesBonus(10, 50, 500) <small><em>#($400 reg pay + $150 time-and-a-half pay) + $50</em></small> &rarr; 600
-
-employeeSalesBonus(10, 60, 500) <small><em>#($400 reg pay + $300 time-and-a-half pay) + $50</em></small> &rarr; 750
-
+($400 reg pay + $300 time-and-a-half pay) + $50
+salesBonus(10, 60, 500) -> 750
+```
 Starter code:
 ```python
 from tkinter import *
@@ -90,16 +163,16 @@ from tkinter import *
 # define your function here
 
 popup = Tk()
-output = employeeSalesBonus(10, 30, "500")
+output = salesBonus(10, 30, "500")
 Label(popup, text=output).pack()
-output = employeeSalesBonus(10, "50", 500)
+output = salesBonus(10, "50", 500)
 Label(popup, text=output).pack()
-output = employeeSalesBonus("10", 60, 500)
+output = salesBonus("10", 60, 500)
 Label(popup, text=output).pack()
 mainloop()
 ```
 
-### parrotTrouble
+### parrotNoise
 
 We own a loud squawking parrot. A noise ordinance prohibits noise louder than 45 decibels from 10 p.m. to 7:30 a.m. on school nights, prohibits noise louder than 60 decibels 10pm-7:30am on non-school nights, AND no noise louder than 75 decibels at ANY time.
 
@@ -107,7 +180,7 @@ Create a function called isVolumeAboveLimit. It requires two arguments: volume a
 
 Create a function called isNight. It requires one argument: militaryTime. It returns True if the time (in military time, 1300 means 1 p.m.) is after 10pm or the time is before 7:30am, otherwise it returns False.
 
-Create a function called parrotTrouble that requires three arguments: volume, militaryTime, and schoolTomorrow
+Create a function called parrotNoise that requires three arguments: volume, militaryTime, and schoolTomorrow
 - convert the volume to a number
 - convert the militaryTime to a number
 - convert schoolTomorrow to a boolean
@@ -117,20 +190,15 @@ Create a function called parrotTrouble that requires three arguments: volume, mi
 - otherwise return "Good bird. Polly want a cracker?"
 
 
-### Input &rarr; Output
-
-parrotTrouble("55","200",False) &rarr; "Good bird. Polly want a cracker?"
-
-parrotTrouble("99","1200","False") &rarr; "Quiet down! You are much too loud!"
-
-parrotTrouble("45","2300",True) &rarr; "Good bird. Polly want a cracker?"
-
-parrotTrouble("60","2300","False") &rarr; "Good bird. Polly want a cracker?"
-
-parrotTrouble("61","2300",True) &rarr; "Shhhhh! Children have school in the morning!"
-
-parrotTrouble("61","2300","False") &rarr; "Shhhhh! I'm trying to sleep!"
-
+#### Input -> Output
+```
+parrotNoise("55","200",False) -> "Good bird. Polly want a cracker?"
+parrotNoise("99","1200","False") -> "Quiet down! You are much too loud!"
+parrotNoise("45","2300",True) -> "Good bird. Polly want a cracker?"
+parrotNoise("60","2300","False") -> "Good bird. Polly want a cracker?"
+parrotNoise("61","2300",True) -> "Shhhhh! Children have school in the morning!"
+parrotNoise("61","2300","False") -> "Shhhhh! I'm trying to sleep!"
+```
 Starter code:
 ```python
 from tkinter import *
@@ -138,17 +206,17 @@ from tkinter import *
 # define your functions here
 
 popup = Tk()
-output = parrotTrouble("55","200",False)
+output = parrotNoise("55","200",False)
 Label(popup, text=output).pack()
-output = parrotTrouble("99","1200","False")
+output = parrotNoise("99","1200","False")
 Label(popup, text=output).pack()
-output = parrotTrouble("45","2300",True)
+output = parrotNoise("45","2300",True)
 Label(popup, text=output).pack()
-output = parrotTrouble("60","2300","False")
+output = parrotNoise("60","2300","False")
 Label(popup, text=output).pack()
-output = parrotTrouble("61","2300",True)
+output = parrotNoise("61","2300",True)
 Label(popup, text=output).pack()
-output = parrotTrouble("61","2300","False")
+output = parrotNoise("61","2300","False")
 Label(popup, text=output).pack()
 mainloop()
 ```

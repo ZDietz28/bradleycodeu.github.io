@@ -1,0 +1,394 @@
+gdarchive:
+
+- title: 1stquarter
+  heading: "# 1st Quarter"
+  content: "*Whenever possible, select 'Sign up with Google' and use your hilliardschools.org account.*
+
+
+Sign up for:
+
+- 'Sign up with Google' [glitch.com](https://glitch.com)
+
+- 'Sign up with Google' [id.unity.com](https://id.unity.com/en/conversations/e2c68135-77f6-42b4-bc5c-7fcb4004cd27012f)
+
+- 'Sign up with Google' [sololearn.com](https://www.sololearn.com/) and download the SoloLearn app on your iPad
+
+- [khanacademy.org](https://khanacademy.org)
+
+
+Join our khanacademy.org class
+
+
+Our “Textbooks”:
+
+- [p5js](https://p5js.org/)
+
+- [Tutorials Point C# Tutorial](https://www.tutorialspoint.com/csharp/)
+
+- [Intro to App Development with Swift](https://books.apple.com/us/book/intro-to-app-development-with-swift/id1118575552)
+
+- [How to Help Someone Use a Computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+
+
+-------
+
+
+
+“Video games are bad for you? That's what they said about rock-n-roll.”
+
+*-Shigeru Miyamoto*
+
+
+“Every age has its storytelling form, and video gaming is a huge part of our culture. You can ignore or embrace video games and imbue them with the best artistic quality. People are enthralled with video games in the same way as other people love the cinema or theatre.”
+
+*–Andy Serkis*
+
+
+“Wakka wakka wakka.”
+
+*-Pac-man*
+
+
+
+-------
+
+
+"
+- title: menu1
+  content: "[1st Quarter](#1st-quarter)
+
+1. **[Objects](#objects)** - *4 wks*
+
+1. **[Inheritance](#inheritance)** - *5 wks*
+
+
+"
+- title: objects
+  heading: "# Objects"
+  content: "*4 weeks* Vocab: object, class, constructor, getter, setter, method, mutator, accessor, instance, instanciate, argument, parameter, finite state machine, game state, edge case, encapsulation, specialization, polymorphism, new, this, instance variable
+
+
+
+
+  - [p5js video folder](https://drive.google.com/open?id=1Vcw2irGn_h8FYIDzU94ShGSLsUdGyCLX)
+
+  - [Coding Train 1.1: Introduction - p5.js Tutorial](https://drive.google.com/file/d/1JzKMGRavSjuiYlXAkHkqXOTYFSt8cgvL/view?usp=sharing)
+
+  - [Coding Train's p5js tutorials playlist](https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+  - [Finite State Machine wiki](https://en.wikipedia.org/wiki/Finite-state_machine)
+
+  - [Parking Meter is a finite state machine - Computers Without Memory - Computerphile](https://www.youtube.com/watch?v=vhiiia1_hC4&t=84s)
+
+  - [Pong & Object Oriented Programming - Computerphile](https://youtu.be/KyTUN6_Z9TM?t=148)
+
+
+
+Projects:
+
+
+  1. Class Codes
+
+  1. [KhanAcademy Drawing With Code](/gdarchive/objects/khanacademydrawingwithcode/) - 10pts
+
+  1. [KhanAcademy Games & Visualizations](/gdarchive/objects/khanacademygames/) - 10pts
+
+  1. [Bubble Game v1](/gdarchive/objects/bubblegamev1/) - 50pts
+
+  1. [SoloLrn JS 1](/gdarchive/objects/sololearnjs1/) - 13pts
+
+  1. [Bubble Game v2](/gdarchive/objects/bubblegamev2/) - 50pts
+
+  1. [SoloLrn Js 2](/gdarchive/objects/sololearnjs2/) - 15pts
+
+  1. Optional Bonus Points [Markov Chain Generator](/gdarchive/objects/markovchaingenerator/) - 50pts
+
+"
+
+- title: inheritance
+  heading: "# Inheritance"
+  content: "*5 weeks*, Vocab: abstraction, parent class, child class, inheritance, containment, is-a, has-a, UML
+
+
+
+
+  - [Coding Train 16.17: Inheritance in JavaScript](https://drive.google.com/file/d/1f31Hv4RS_QHj-aPZUUjJyY07w8wgRcUg/view?usp=sharing)
+
+  - [p5js example of player state](https://www.youtube.com/watch?v=zUXsAW9JTBs&feature=youtu.be&t=1977)
+
+
+
+Projects:
+
+  1. [KhanAcademy Transformations](/gdarchive/inheritance/khanacademytransformations/) - 10pts
+
+  1. [UDLR v1](/gdarchive/inheritance/udlrv1/) - 50pts
+
+  1. [SoloLrn JS 3](/gdarchive/inheritance/sololearnjs3/) - 12pts
+
+  1. [UDLR v2](/gdarchive/inheritance/udlr/) - 50pts
+
+  1. [SoloLrn JS 4](/gdarchive/inheritance/sololearnjs4/) - 15pts
+
+"
+
+- title: 2ndquarter
+  heading: "# 2nd Quarter"
+  content: "
+
+“...I like video games. That's what got me into software engineering when I was a kid. I wanted to make money so I could buy a better computer to play better video games - nothing like saving the world.”
+
+*-Elon Musk*
+
+
+“Just make games for yourself and try to have a critical eye to what you do. If you genuinely like the game, there will be other people who like it as well.”
+
+*-Markus Persson*
+
+
+“Games shouldn't only be fun. They should teach or spark an interest in other things.”
+
+*-Hideo Kojima*
+
+
+-------
+
+
+  "
+- title: menu2
+  content: "[2nd Quarter](#2nd-quarter)
+
+1. **[Platforms](#platforms)** - *3 wks*
+
+1. **[CSharp](#csharp)** - *4 wks*
+
+"
+- title: platforms
+  heading: "# Platforms"
+  content: "*3 weeks*, vocab: GitHub, commit, push, pull, pull request, clone, fork
+
+
+  1. [Platformer v1](/gdarchive/platforms/platformerv1/) - 50pts
+
+  1. [Player 2](/gdarchive/platforms/player2/) - 10pts
+
+  1. [Level Up](/gdarchive/platforms/levelup/) - 10pts
+  "
+
+- title: csharp
+  heading: "# CSharp"
+  content: "*4 weeks*,
+
+
+
+
+  1. [Roll A Ball tutorials](https://drive.google.com/open?id=1od6cs8Mp4tIrEoH1xm6telgiGZkbpShq)
+
+  1. [Space Shooter tutorials](https://drive.google.com/open?id=1yYnAjzR8CyDajmKLqHUM8pPBGv-HVkbe)
+
+
+Projects:
+
+1. [SoloLrn CSharp](/gdarchive/csharp/sololearncsharp/) - 11pts
+
+1. [Roll A Ball v1](/gdarchive/csharp/rollaballv1/) - 20pts
+
+1. [Roll A Ball v2](/gdarchive/csharp/rollaballv2/) - 20pts
+
+1. [Space Shooter v1](/gdarchive/csharp/spaceshooterv1/) - 30pts
+
+"
+
+
+- title: 3rdquarter
+  heading: "# 3rd Quarter"
+  content: "
+
+“Our world, with its rules of causality, has trained us to be miserly with forgiveness. By forgiving too readily, we can be badly hurt. But if we've learned from a mistake and become better for it, shouldn't we be rewarded for the learning, rather than punished for the mistake?”
+
+ *-Braid*
+
+
+
+“Don’t ever stop. Always keep going, no matter what happens and is taken from you. Even when life is so unfair, don’t give up.”
+
+*-Ezio (Assassin's Creed II)*
+
+
+
+ “If you had a game that said, 'Oops, you're dead. Now switch off the game,' it wouldn't be very successful. So you do need to have something to teach and be there to learn from, and we feel that death in video games is a positive experience.”
+
+ *-Hidetaka Miyazaki*
+
+
+-------
+
+
+    "
+- title: menu3
+  content: "[3rd Quarter](#3rd-quarter)
+
+1. **[Swift](#swift)** - *3 wks*
+
+1. **[Unity3d](#unity3d)** - *3 wks*
+
+1. **[Swift2](#swift2)** - *3 wks*
+
+
+"
+- title: swift
+  heading: "# Swift"
+  content: "*3 weeks*
+
+
+1. [All About Me iOS App](/gdarchive/swift/allaboutmeiosapp/)
+
+1. [SoloLrn Swift Basics](/gdarchive/swift/sololearnswift/)
+
+1. [Chapters 1 To 6](/gdarchive/swift/chapters1to6/)
+
+1. [Chapters 7 To 12](/gdarchive/swift/chapters7to12/)
+
+1. [SoloLrn Swift Control Flow](/gdarchive/swift/SoloLrnSwiftControlFlow/)
+
+1. [Chapter 13 QuestionBot](/gdarchive/swift/chapter13QuestionBot/)
+
+
+
+
+"
+
+
+- title: unity3d
+  heading: "# Unity3d"
+  content: "*3 weeks*
+
+
+
+
+  1. [Space Shooter tutorials](https://drive.google.com/open?id=1yYnAjzR8CyDajmKLqHUM8pPBGv-HVkbe)
+
+  1. [Terrain tutorials](https://drive.google.com/open?id=1lsFiEbqzo0u6EuoXLDo_E9q0xRFRL0j5)
+
+
+Projects:
+
+
+1. [Space Shooter v2](/gdarchive/unity3d/spaceshooterv2/)
+
+1. [Terrain v1](/gdarchive/unity3d/terrainv1/)
+
+1. [Terrain v2](/gdarchive/unity3d/terrainv2/)
+
+1. [WebGL Export](/gdarchive/unity3d/webglexport/)
+
+"
+
+- title: swift2
+  heading: "# Swift2"
+  content: "*3 wks*
+
+  1. [ShouldBot App](/gdarchive/swift2/shouldbotApp/)
+
+  1. [SoloLrn Swift Functions Closures](/gdarchive/swift2/SoloLrnSwiftFunctionsClosures/)
+
+  1. [Flashlight App](/gdarchive/swift2/flashlightApp/)
+
+  1. [Todo List App v1](/gdarchive/swift2/todolistv1/)
+
+  1. [SoloLrn Swift Object Oriented Prog](/gdarchive/swift2/SoloLrnSwiftObjectOrientedProg/)
+
+  1. [Todo List App v2](/gdarchive/swift2/todolistv2/)
+
+  1. [Ch 14 Intro to App Dev Arrays and Loops](/gdarchive/swift2/ch14introtoappdev/)
+
+  1. [Ch 15 Intro to App Dev Defining Structures](/gdarchive/swift2/ch15introtoappdev/)
+
+  1. [Ch 16 Intro to App Dev QuestionBot2](/gdarchive/swift2/ch16introtoappdev/)
+
+  1. [Actions and Outlets](/gdarchive/swift2/ch16introtoappdev/)
+
+  1. [Ch 18 Intro to App Dev Adaptive User Interfaces](/gdarchive/swift2/ch18introtoappdev/)
+
+  1. [Ch 19 Intro to App Dev Enumerations and Switch](/gdarchive/swift2/ch19introtoappdev/)
+
+  1. [Final Design](/gdarchive/swift2/ch20introtoappdev/)
+
+  1. [App Design](/gdarchive/swift2/ch21introtoappdev/)
+
+
+  "
+
+- title: 4thquarter
+  heading: "# 4th Quarter"
+  content:
+    "
+
+“Players are artists who create their own reality within the game.”
+
+*-Shigeru Miyamoto*
+
+
+“There are many museums dedicated to technology, artistic endeavors, music, and that sort of thing. From that perspective, I think games really do have a place as a kind of collaborative art or a synthesis of all these various aspects into a whole, and that, in itself, can be perceived as art.”
+
+*-Hideo Kojima*
+
+
+“Video games can never be art”
+
+*–Roger Ebert*
+
+
+-------
+
+
+
+    "
+- title: menu4
+  content: "[4th Quarter](#4th-quarter)
+
+
+1. **[Unity2d](#unity2d)** - *4 wks*
+
+1. **[Multiplayer](#multiplayer)** - *4 wks*
+
+1. **[iOS Platformer](#ios-platformer)** - *3 wks*
+
+"
+- title: unity2d
+  heading: "# Unity2d"
+  content: "*4 weeks*
+
+1. [Robo Bros](/gdarchive/unity2d/robobros/)
+
+1. [Super Soy Boy v1](/gdarchive/unity2d/supersoyboyv1/)
+
+1. [Super Soy Boy v2](/gdarchive/unity2d/supersoyboyv2/)
+
+1. [Super Soy Boy v3](/gdarchive/unity2d/supersoyboyv3/)
+
+
+  "
+
+- title: multiplayer
+  heading: "# Multiplayer"
+  content: "*4 weeks*
+
+1. [Team Rollaball](/gdarchive/multiplayer/teamrollaball/)
+
+1. [P5 Multiplayer v1](/gdarchive/multiplayer/p5multiplayerv1/)
+
+1. [P5 Multiplayer v2](/gdarchive/multiplayer/p5multiplayerv2/)
+
+
+"
+
+- title: iosplatformer
+  heading: "# iOS Platformer"
+  content: "*3 weeks*
+
+1. [iOS Platformer v1](/gdarchive/iosplatformer/iosplatformerv1/)
+
+1. [iOS Platformer v2](/gdarchive/iosplatformer/iosplatformerv2/)
+
+"

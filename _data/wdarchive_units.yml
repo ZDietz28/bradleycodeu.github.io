@@ -1,0 +1,515 @@
+wdarchive:
+
+- title: 1stquarter
+  heading: "# 1st Quarter"
+  content: "*Whenever possible, select 'Sign up with Google' and always use your hilliardschools.org account.*
+
+
+Sign up for:
+
+- 'Sign up with Google' [repl.it](https://repl.it)
+
+- 'Sign up with Google' [glitch.com](https://glitch.com)
+
+- 'Sign up with Google' [sololearn.com](https://www.sololearn.com/) and download the SoloLearn app on your iPad
+
+- 'Sign up with Google' [khanacademy.org](https://khanacademy.org)
+
+- Join our repl.it class and our khanacademy.org class using the *class codes* posted on Canvas
+
+
+Our “Textbooks”:
+
+- [Fundamentals of Web Programming by Brad Miller](https://runestone.academy/runestone/books/published/webfundamentals/index.html)
+
+- [W3Schools](https://www.w3schools.com/)
+
+- [p5js](https://p5js.org/)
+
+- [Bootstrap](https://getbootstrap.com/)
+
+- [Materialize](https://materializecss.com/)
+
+- [How to Help Someone Use a Computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+
+
+-------
+
+
+“WorldWideWeb: Proposal for a HyperText Project”
+
+
+*—Tim Berners-Lee*
+
+
+“On the Internet, nobody knows you're a dog”
+
+
+*—Peter Steiner*
+
+
+-------
+
+
+"
+- title: menu1
+  content: "[1st Quarter](#1st-quarter)
+
+
+
+
+1. **[HTML](#html)** - *3 wks*
+
+1. **[CSS](#css)** - *3 wks*
+
+1. **[JS](#js)** - *3 wks*
+
+"
+
+- title: htmlarchive
+  heading: "# HTML"
+  content: "*2 weeks*, Vocab: html, hypertext, tag, head, body, title, h1, p, br, bold, italics, img, alt, ordered list, unordered list
+
+
+
+  - [WD HTML Unit Vocab](https://docs.google.com/document/d/1lFET0X74bM1jqZnVSS5yAaAOs6ms1UiarH5JckI54BY/edit?usp=sharing)
+
+  - [WD HTM vocab review game](https://bradleycodeu.github.io/wdarchive/html/review/)
+
+  - [KhanAcademy Intro to HTML](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-basics)
+
+  - [What is Design?](https://drive.google.com/open?id=19UTgCtOIuQPbIhIo6B2ktjPeGUDolFCM)
+
+  - [Simpler is Better](https://drive.google.com/open?id=1hpUxydU5K0Lv9N_UkXRrQDSfIBxV8RAp)
+
+  - [KhanAcademy HTML text emphasis](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-text-emphasis)
+
+  - [KhanAcademy HTML lists](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-lists)
+
+
+
+Projects:
+
+1. Class Codes
+
+1. [Hello World](/wdarchive/html/helloworld/)
+
+1. [SoloLrn HTML](/wdarchive/html/sololearnhtml/)
+
+1. [Simpler is Better](/wdarchive/html/simplerisbetter/)
+
+1. [Poetry with Emphasis](/wdarchive/html/poetrywithemphasis/)
+
+1. [Club Goals Lists](/wdarchive/html/clubgoalslists/)
+
+1. [KhanAcademy Picture Perfect Trip](/wdarchive/html/khanacademypictureperfecttrip/)
+
+1. [SoloLrn HTML 2](/wdarchive/html/sololearnhtml2/)
+
+1. Group - [Multi-page Pizza Site 1](/wdarchive/html/multipagepizzasite1/)
+
+1. [Twine Game v1](/wdarchive/html/twinegamev1/)
+
+"
+
+- title: cssarchive
+  heading: "# CSS"
+  content: "*3 weeks* Vocab: css, inline css, internal css, external css, css rule, selector, css declaration, css property and value, rgb, hexcode, font stack, serif font, sans serif font, css box model, padding, border, margin, table, tr, th, td
+
+
+
+  - [WD CSS unit vocab](https://docs.google.com/document/d/1EnxzRSG4OwMD_QLqqwv2yH0XCKy65JzupGgukky7oYA/edit?usp=sharing)
+
+  - [WD CSS vocab review game](https://bradleycodeu.github.io/wdarchive/css/review/)
+
+  - [Images Pixels and RGB](https://drive.google.com/open?id=1WDeCPoWsnHy7-FUteaoZRspIw25sJWyb)
+
+
+
+
+
+
+Projects:
+
+1. [SoloLrn CSS](/wdarchive/css/sololearncss/)
+
+1. [KhanAcademy Drawing with Code](/wdarchive/css/khanacademydrawingwithcode/)
+
+1. [Colorful Tables](/wdarchive/css/colorfultables/)
+
+1. Group - [Multi-page Pizza Site 2](/wdarchive/css/multipagepizzasite2/)
+
+1. [Hexcode Pixels](/wdarchive/css/hexcodepixels/)
+
+1. [Food Drive](/wdarchive/css/fooddrive/)
+
+1. [Twine Game v2](/wdarchive/css/twinegamev2/)
+
+"
+
+- title: jsarchive
+  heading: "# JS"
+  content: "*3 weeks* Vocab: JavaScript, id, script, variable, var, let, button, onclick, getElementById(), innerHTML, class, alert, prompt, function, function definition, function call, console, debugging, syntax, comment, operators, assignment operator, equality operator, string, camelCase, display, block, inline, conditional
+
+
+1. [SoloLrn JS Overview](/wdarchive/js/SoloLearnJS1/)
+
+1. [Change Text with JS](/wdarchive/js/ChangeTextWithJS/)
+
+1. [Three Prompts](/wdarchive/js/JSThreePrompts/)
+
+1. [Club Page v1](/wdarchive/js/JSClubPagev1/)
+
+1. [SoloLrn JS Basics](/wdarchive/js/SoloLearnJS2/)
+
+1. [12 Buttons Game](/wdarchive/js/12ButtonsGame/)
+
+1. [JS Clicker Game](/wdarchive/js/JSClickerGame/)
+"
+- title: 2ndquarter
+  heading: "# 2nd Quarter"
+  content: "
+“Java is to JavaScript as ham is to hamster.”
+
+*-Jeremy Keith*
+
+
+“When something is such a creative medium as the web, the limits to it are our imagination.”
+
+*-Tim Berners-Lee*
+
+
+-------
+
+
+  "
+- title: menu2
+  content: "[2nd Quarter](#2nd-quarter)
+
+1. **[Photoshop](#photoshop)** - *3 wks*
+
+1. **[Forms](#forms)** - *2 wks*
+
+1. **[p5js](#p5js)** - *4 wks*
+
+
+"
+- title: photoshop
+  heading: "# Photoshop"
+  content: "*3 weeks* Vocab: vector, raster, pixel,
+
+
+
+
+
+  - [The Difference Between Vector and Raster (Bitmap) Graphics](https://drive.google.com/open?id=1ubrlBA4CZGFsjiZdWk2tHCV43epO-jKR)
+
+  - [What are Vector and Raster Graphics?](https://drive.google.com/open?id=1W5mGN0GtWFeeiSkojBsa46ozWsuEwce0)
+
+  - [Photoshop tutorial video folder](https://drive.google.com/drive/folders/1B-9cvnMOxKOdK18GOz3KfiZ-aM0vTZSr)
+
+  - [Photoshop - Adjust Image Size and Canvas Size](https://drive.google.com/file/d/1eElNgKiZGciT4YEHEBOy6uWDEoNsrKvn/view?usp=sharing)
+
+  - [How To Design A Modern Logo Start To Finish](https://drive.google.com/open?id=1v-CX3kED4hMuFp44lnGFVjX7eBGD9061)
+
+  - [Aaron Draplin Takes On a Logo Design Challenge](https://drive.google.com/file/d/1zXr_pJ5wg70eH6Uzgr-04DJqenmQURIn/view?usp=sharing)
+
+
+
+Projects:
+
+1. [Pizza Logo](/wdarchive/photoshop/pizzalogo/)
+
+1. [Photoshop Pizza Flyer](/wdarchive/photoshop/photoshoppizzaflyer/)
+
+1. [Dadaist Collage](/wdarchive/photoshop/dadaistcollage/)
+
+1. [JPG GIF and PNG](/wdarchive/photoshop/jpggifandpng/)
+
+1. [Vector Raster Drawings](/wdarchive/photoshop/vectorrasterdrawings/)
+
+1. [Stylish Menu Text](/wdarchive/photoshop/stylishmenutext/)
+
+1. [Vector Mask Crop Resize](/wdarchive/photoshop/vectormaskcropresize/)
+
+1. [KhanAcademy Logo](/wdarchive/photoshop/khanacademylogo/)
+"
+
+- title: formsarchive
+  heading: "# Forms"
+  content: "*2 weeks* Vocab: form, label, input, radio button, select, onchange, checkbox, div, border-radius, transition, function, Math.random(), event listener,
+
+
+
+1. [Join Club](/wdarchive/forms/JoinClub/)
+
+1. [Form Game 1](/wdarchive/forms/JSFormGame/)
+
+1. Pair-[Form Game 2](/wdarchive/forms/JSFormGame2/)
+
+1. [Yes or No](/wdarchive/forms/YesOrNo/)
+
+1. [Sound Sample Piano](/wdarchive/forms/SoundSamplePiano/)
+"
+
+- title: p5jsarchive
+  heading: "# p5js"
+  content: "*4 weeks*
+
+1. [KhanAcademy Drawing With Code](/wdarchive/p5js/KADrawingWithCode/)
+
+1. [P5 Mouse Mover](/wdarchive/p5js/P5MouseMover/)
+
+1. [SoloLrn JS 2](/wdarchive/p5js/SoloLearnJS2/)
+
+1. [P5 Bubble Game v1](/wdarchive/p5js/P5BubbleGamev1/)
+
+1. [SoloLrn JS 3](/wdarchive/p5js/SoloLearnJS3/)
+
+1. [P5 Bubble Game v2](/wdarchive/p5js/P5BubbleGamev2/)
+
+1. [P5 UDLR v1](/wdarchive/p5js/p5udlrv1/)
+
+1. [P5 UDLR v2](/wdarchive/p5js/p5udlrv2/)
+
+"
+- title: 3rdquarter
+  heading: "# 3rd Quarter"
+  content: "
+
+“The web's earliest architects and pioneers fought for their vision of freedom on the Internet at a time when it was still small forums for conversation and text-based gaming. They thought the web could be adequately governed by its users without their needing to empower anyone to police it.”
+
+*–Jenna Wortham*
+
+
+“...Spins a web, any size.
+Catches thieves- just like flies.
+Look out! Here comes the Spider-man”
+
+*-Spider-man*
+
+
+-------
+
+
+    "
+- title: menu3
+  content: "[3rd Quarter](#3rd-quarter)
+
+1. **[Arrays](#arrays)** - *4 wks*
+
+1. **[Scrum](#scrum)** - *3 wks*
+
+1. **[Objects](#objects)** - *2 wks*
+
+
+"
+- title: arraysarchive
+  heading: "# Arrays"
+  content: "*4 weeks*
+
+
+
+
+  - [JS Nested Conditionals Generator](/wdarchive/arrays/jsnestedconditionalsgenerator/)
+
+  - [JS Array Practice Generator](/wdarchive/arrays/jsarraypracticegenerator/)
+
+
+
+
+
+Projects:
+
+1. [Random Name Generator](/wdarchive/arrays/randomNameGenerator/)
+
+1. Pair-[Boss Battle](/wdarchive/arrays/bossBattle/)
+
+1. [Array Search](/wdarchive/arrays/arraySearch/)
+
+1. [Guess One Letter](/wdarchive/arrays/guessOneLetter/)
+
+1. [P5 Snowflakes](/wdarchive/arrays/p5snowflakes/)
+
+1. [P5 Whiteboard](/wdarchive/arrays/p5whiteboard/)
+
+"
+- title: scrum
+  heading: "# Scrum"
+  content: "*3 weeks*
+
+1. Team - [Foobar v1](/wdarchive/scrum/foobarv1/)
+
+1. [localStorage Character Creator](/wdarchive/scrum/localStorage/)
+
+1. [localStorage Shopping List](/wdarchive/scrum/localStorageShoppingList/)
+
+1. Team - [Foobar v2](/wdarchive/scrum/foobarv2/)
+
+  "
+- title: objects
+  heading: "# Objects"
+  content: "*2 weeks*
+
+
+1. [SoloLrn Objects](/wdarchive/objects/SoloLrnObjects/)
+
+1. [JS Chatbot](/wdarchive/objects/JSChatbot/)
+
+1. [P5 Bouncy Ball](/wdarchive/objects/P5BouncyBall/)
+
+1. [WebGL Bouncy Sphere](/wdarchive/objects/WebGLBouncySphere/)
+
+1. [WebGL Bouncy Statue](/wdarchive/objects/WebGLBouncyStatue/)
+
+1. [WebGL Tree](/wdarchive/objects/WebGLTree/)
+
+1. [WebGL Tree Class](/wdarchive/objects/WebGLTreeClass/)
+
+1. [WebGL Animal](/wdarchive/objects/WebGLAnimal/)
+
+1. [WebGL Animal Class](/wdarchive/objects/WebGLAnimalClass/)
+
+
+
+
+
+  "
+
+- title: 4thquarter
+  heading: "# 4th Quarter"
+  content: "
+“None of us got where we are solely by pulling ourselves up by our bootstraps. We got here because somebody - a parent, a teacher, an Ivy League crony or a few nuns - bent down and helped us pick up our boots.”
+
+*–Thurgood Marshall*
+
+
+-------
+
+
+    "
+- title: menu4
+  content: "[4th Quarter](#4th-quarter)
+
+
+1. **[Bootstrap](#bootstrap)** - *3 wks*
+
+1. **[Materialize](#materialize)** - *3 wks*
+
+1. **[NodeJS](#nodejs)** - *3 wks*
+
+
+
+"
+- title: bootstrap
+  heading: "# Bootstrap"
+  content: "*3 weeks*
+
+
+- [Get Started](/wdarchive/bootstrap/bootstrap-4-get-started/)
+
+- [Containers](/wdarchive/bootstrap/bootstrap-4-containers/)
+
+- [Colors](/wdarchive/bootstrap/bootstrap-4-colors/)
+
+- [Grid](/wdarchive/bootstrap/bootstrap-4-grid/)
+
+- [Jumbotron](/wdarchive/bootstrap/bootstrap-4-jumbotron/)
+
+- [Buttons](/wdarchive/bootstrap/bootstrap-4-buttons/)
+
+- [Forms & Inputs](/wdarchive/bootstrap/bootstrap-4-forms-and-inputs/)
+
+- [Collapse](/wdarchive/bootstrap/bootstrap-4-collapse/)
+
+- [Display & Text Classes](/wdarchive/bootstrap/bootstrap-4-display-and-text-classes/)
+
+- [Carousel](/wdarchive/bootstrap/bootstrap-4-carousel/)
+
+- [Modal](/wdarchive/bootstrap/bootstrap-4-modal/)
+
+- [Google Fonts](/wdarchive/bootstrap/google-fonts/)
+
+- [Google Material Icons](/wdarchive/bootstrap/google-material-icons/)
+
+
+
+
+Projects:
+
+
+1. [Bootstrap Responsive Columns](/wdarchive/bootstrap/bootstrapresponsivecolumns/)
+
+1. [Bootstrap Club Page](/wdarchive/bootstrap/bootstrapclubpage/)
+
+1. [Bootstrap Club Collapse](/wdarchive/bootstrap/bootstrapclubcollapse/)
+
+1. [Bootstrap Club Carousel](/wdarchive/bootstrap/bootstrapclubcarousel/)
+
+
+  "
+
+
+- title: materialize
+  heading: "# Materialize"
+  content: "*3 weeks*
+
+
+- [Get Started](/wdarchive/materialize/materialize-get-started/)
+
+- [Container & Grid](/wdarchive/materialize/materialize-container-and-grid/)
+
+- [Colors](/wdarchive/materialize/materialize-colors/)
+
+- [Cards](/wdarchive/materialize/materialize-cards/)
+
+- [Navbar](/wdarchive/materialize/materialize-navbar/)
+
+- [Buttons & Waves](/wdarchive/materialize/materialize-buttons-and-waves/)
+
+- [Text Inputs](/wdarchive/materialize/materialize-text-inputs/)
+
+- [Select Dropdown](/wdarchive/materialize/materialize-select-dropdown/)
+
+- [Radio Buttons & Checkboxes](/wdarchive/materialize/materialize-radio-buttons)
+
+- [Collapsibles](/wdarchive/materialize/materialize-collapsibles/)
+
+- [Pickers](/wdarchive/materialize/materialize-pickers/)
+
+- [Range Sliders](/wdarchive/materialize/materialize-range-sliders/)
+
+- [Switches](/wdarchive/materialize/materialize-switches/)
+
+- [Sidenav](/wdarchive/materialize/materialize-sidenav/)
+
+
+
+
+Projects:
+
+1. [Materialize Responsive Columns](/wdarchive/materialize/materializeresponsivecolumns/)
+
+1. [Materialize Pizza Homepage](/wdarchive/materialize/pizzahomepage/)
+
+1. [Materialize Pizza Order Form](/wdarchive/materialize/pizzaorderform/)
+
+1. [Materialize Pizza Birthday Club](/wdarchive/materialize/pizzabirthdayclub/)
+
+
+
+"
+
+
+
+- title: nodejs
+  heading: "# NodeJS"
+  content: "*3 weeks*
+
+1. [NodeJS Order Form v1]
+
+1. [NodeJS Order Form v2]
+
+
+
+"

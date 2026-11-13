@@ -1,0 +1,240 @@
+aicc:
+
+- title: 1stquarter
+  heading: "# 1st Quarter"
+  content: "*Whenever possible, select 'Sign up with Google' and always use your hilliardschools.org account.* &nbsp; &nbsp; <a href='https://github.com/BradleyCodeU/bradleycodeu.github.io/blob/master/_data/gdad_units.yml'>.</a>
+
+
+### Sign up for:
+
+- 'Sign up with Google' [sololearn.com](https://www.sololearn.com/)
+
+- [Runestone Academy](https://runestone.academy/runestone/default/user/register) AND use the *class code* posted on Canvas
+
+- 'Sign up with Google' [khanacademy.org](https://khanacademy.org) AND use the *class code* posted on Canvas
+
+
+
+#### Our “Textbooks”:
+
+- [W3Schools](https://www.w3schools.com/)
+
+- [p5js](https://p5js.org/)
+
+- [How to Help Someone Use a Computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+
+
+-------
+
+
+“Java is to JavaScript as ham is to hamster.”
+
+*-Jeremy Keith*
+
+
+“On the Internet, nobody knows you're a dog”
+
+*—Peter Steiner*
+
+
+-------
+
+
+"
+- title: menu1
+  content: "[1st Quarter](#1st-quarter)
+
+
+
+
+1. **[u01numbersAndStrings](#u01numbersandstrings)** - *? wks*
+
+1. **[u02stringMethods](#u02stringmethods)** - *? wks*
+
+1. **[u03arrayMethods](#u03arraymethods)** - *? wks*
+
+1. **[u04loops](#u04loops)** - *? wks*
+
+
+"
+
+- title: u01numbersAndStrings
+  heading: "# u01numbersandstrings"
+  content: "*2 weeks*,
+
+1. [CodeCademy JS 1](/aicc/u01numbersAndStrings/codecademyJavaScript1/instructions)
+
+1. [Intro To Art](/aicc/u01numbersAndStrings/introToArt/instructions)
+
+1. [Intro To Text](/aicc/u01numbersAndStrings/introToText/instructions)
+
+1. [CodeCademy JS 2](/aicc/u01numbersAndStrings/codecademyJavaScript2/instructions)
+
+1. [Intro To Sound](/aicc/u01numbersAndStrings/introToSound/instructions)
+
+1. [Random Art](/aicc/u01numbersAndStrings/randomArt/instructions)
+
+1. [Random Haiku](/aicc/u01numbersAndStrings/randomHaiku/instructions)
+
+1. [Random Music](/aicc/u01numbersAndStrings/randomMusic/instructions)
+
+
+#### Vocab:
+
+let, const, assignment, number, string, concatenation, toString(), parseInt()
+
+
+#### Resources:
+
+- [https://editor.p5js.org/](https://editor.p5js.org/)
+
+- [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
+
+- [JavaScript Let](https://www.w3schools.com/js/js_let.asp)
+
+- [JavaScript Const](https://www.w3schools.com/js/js_const.asp)
+
+- [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
+
+- [JavaScript Operators](https://www.w3schools.com/js/js_operators.asp)
+
+- [JavaScript Assignment](https://www.w3schools.com/js/js_assignment.asp)
+
+- [JavaScript Strings](https://www.w3schools.com/js/js_strings.asp)
+
+- [JS Concatenation Practice Generator](https://bradleycodeu.github.io/studyGuides/JavascriptConcatenationGenerator/)
+
+
+"
+
+- title: u02stringMethods
+  heading: "# u02stringmethods"
+  content: "*2 weeks*
+
+
+
+
+1. [Image Classify](/aicc/u02stringMethods/imageClassify/instructions/)
+
+1. [Sound Classify](/aicc/u02stringMethods/soundClassify/instructions/)
+
+
+
+#### Vocab:
+
+length, substring, indexOf, split
+
+#### Resources:
+
+- [JS String Methods Generator](https://bradleycodeu.github.io/studyGuides/JavascriptStringMethodsGenerator/)
+
+
+"
+
+- title: u03arrayMethods
+  heading: "# u03arraymethods"
+  content: "*2 weeks*
+
+
+1. [CodeCademyArrays](/aicc/u03arrayMethods/codecademyArrays/instructions/)
+
+1. [ShoppingListV1](/aicc/u03arrayMethods/ShoppingListV1/instructions/)
+
+1. [Mask Photo Booth](/aicc/u03arrayMethods/maskPhotoBooth/instructions/)
+
+1. [ShoppingListV2](/aicc/u03arrayMethods/ShoppingListV2/instructions/)
+
+
+
+#### Vocab:
+
+length, push, splice 
+
+#### Resources:
+
+- [JS Array Practice Generator](https://bradleycodeu.github.io/studyGuides/JavascriptArrayPracticeGenerator/)
+
+- [JS Array Methods Generator](https://bradleycodeu.github.io/studyGuides/JavascriptArrayMethodsGenerator/)
+
+
+"
+
+- title: u04loops
+  heading: "# u04loops"
+  content: "*2 weeks*
+
+
+1. [CodeCademyLoops](/aicc/u04loops/codecademyLoops/instructions/)
+
+1. [Simple Chatbot](/aicc/u04loops/simpleChatbot/instructions/)
+
+1. [RPS Random](/aicc/u04loops/rpsRandom/instructions/)
+
+1. [Replacement Bot](/aicc/u04loops/replacementBot/instructions/)
+
+1. [Should Bot](/aicc/u04loops/shouldBot/instructions/)
+
+1. [RPS Trigrams](/aicc/u04loops/rpsTrigrams/instructions/)
+
+1. [Fill The Blanks Bot](/aicc/u04loops/fillTheBlanksBot/instructions/)
+
+1. [Expert System](/aicc/u04loops/expertSystem/instructions/)
+
+1. [Coding Teacher Bot](/aicc/u04loops/codingTeacherBot/instructions/)
+
+
+#### Vocab:
+
+for loop, while loop, for-each loop, reverse for loop
+
+#### Resources:
+
+- [JS Five Loop Flavors](https://bradleycodeu.github.io/studyGuides/JavascriptFiveLoopFlavorsPractice/)
+
+
+
+
+"
+
+
+- title: menu2
+  content: "[2nd Quarter](#2nd-quarter)
+
+
+1. **[u05_arrays_of_arrays](#u05_arrays_of_arrays)** - *? wks*
+
+"
+
+
+
+- title: u05_arrays_of_arrays
+  heading: "# u05_arrays_of_arrays"
+  content: "*2 weeks*
+
+
+1. [Graphing with P5](/aicc/u05_arrays_of_arrays/graphingWithP5/instructions/)
+
+1. [Testing 2D Fun](/aicc/u05_arrays_of_arrays/testing2dFun/instructions/)
+
+1. [TensorFlow Linear Regression App](/aicc/u05_arrays_of_arrays/tensorflowLinearApp/instructions/)
+
+1. [Logistic Hiring App](/aicc/u05_arrays_of_arrays/logisticHiringApp/instructions/)
+
+1. [Logistic Math](/aicc/u05_arrays_of_arrays/logisticMath/instructions/)
+
+1. [Making Tensors](/aicc/u05_arrays_of_arrays/makingTensors/instructions/)
+
+
+
+#### Vocab:
+
+2d array, ragged array, scalar, vector, matrix, tensor, TensorFlow, confusion matrix, linear regression, logistic regression
+
+#### Resources:
+
+- [JS Five Loop Flavors](https://bradleycodeu.github.io/studyGuides/JavascriptFiveLoopFlavorsPractice/)
+
+
+
+
+"
